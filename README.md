@@ -1,5 +1,5 @@
-# devops10
-pipeline {
+
+    pipeline {
     agent any
 
     tools {
